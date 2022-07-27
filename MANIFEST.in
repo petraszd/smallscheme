@@ -1,0 +1,2 @@
+include run-smallscheme LICENSE README
+recursive-include smallscheme *.py

@@ -1,0 +1,21 @@
+smallscheme
+===========
+
+smallpython is scheme interpreter written in python. I create this project
+just for educational purposes. I have had two goals:
+
+- Make it run
+- Make it run examples from "The Little Schemer"
+
+Features
+========
+
+- Tail recursion
+- Closures
+- Numbers (Just integers -- no floats).
+- Strings (But no functions to deal with them...)
+- Symbols
+- Booleans
+- REPL
+- File Interpreter
+

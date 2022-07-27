@@ -1,0 +1,3 @@
+class SchemeError(Exception):
+    pass
+
